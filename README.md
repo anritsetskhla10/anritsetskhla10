@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anri Tsetskhlashvili</h1> 
 <h3 align="center">FullStack Developer</h3>
-
 - 🔭 I’m currently working as **Full-Stack Developer at Delivo**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-theta-azure-59.vercel.app/)
@@ -60,4 +59,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anritsetskhla10&show_icons=true&locale=en&layout=compact" alt="anritsetskhla10" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anritsetskhla10&" alt="anritsetskhla10" />
 </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anritsetskhla10&label=Profile%20views&color=0e75b6&style=flat" alt="anritsetskhla10" /> </p>
