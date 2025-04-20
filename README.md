@@ -56,9 +56,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/1C_Company_logo.svg" alt="1C" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anritsetskhla10&show_icons=true&locale=en&layout=compact" alt="anritsetskhla10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anritsetskhla10&" alt="anritsetskhla10" /></p>
-  
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anritsetskhla10&show_icons=true&locale=en&layout=compact" alt="anritsetskhla10" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anritsetskhla10&" alt="anritsetskhla10" />
+</p>
 
